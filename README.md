@@ -1,4 +1,7 @@
 # aimlproject
+
+**Main File : mainapp.py**
+
 This project emphasizes about the face recognition application for food ordering management system. This project is developed by trained AI/ML Intern under GPRobo startup guidance.
 Introduction
 This project is a robot system that provides personalized food recommendations to users based on their face recognition and previous orders. The system uses a combination of computer vision, machine learning, and database management to offer a seamless and intuitive user experience.
